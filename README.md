@@ -10,11 +10,14 @@ The advantages of the fast imnplementation are:
 The programs run under both, Python2 and Python3.
 Among others they need OpenCV (cv2) for the live waterfall spectrogram.
 
-Under Python2 it is installed with
+Under Python2 it is installed with:
+
 sudo apt install python-opencv
 
-in Python3 it is installed with
+in Python3 it is installed with:
+
 sudo apt install python3-pip
+
 sudo pip3 install opencv-python
 
 
