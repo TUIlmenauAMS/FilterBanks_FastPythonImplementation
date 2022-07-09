@@ -7,6 +7,12 @@ The advantages of the fast imnplementation are:
 * low memory requirement for filtering and signal processing
 * real time processing, one signal block goes in, one signal block comes out
 
+For the theoretical background see the book:
+Gerald Schuller: "Filter Banks and Audio Coding - Compressing Audio Signals Using Python"
+Springer 2020, 
+ISBN: 978-3-030-51249-1 (e-book)
+ISBN: 978-3-030-51251-4 (softcover or hardcover)
+
 The programs run under both, Python2 and Python3.
 Among others they need OpenCV (cv2) for the live waterfall spectrogram.
 
