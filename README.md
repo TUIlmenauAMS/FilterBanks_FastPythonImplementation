@@ -9,7 +9,7 @@ The advantages of the fast imnplementation are:
 
 For the theoretical background see the book:
 
-Gerald Schuller: "Filter Banks and Audio Coding - Compressing Audio Signals Using Python"
+Gerald Schuller: "Filter Banks and Audio Coding - Compressing Audio Signals Using Python",
 Springer 2020, 
 ISBN: 978-3-030-51249-1 (e-book)
 ISBN: 978-3-030-51251-4 (softcover or hardcover)
